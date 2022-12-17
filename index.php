@@ -149,7 +149,7 @@
                   </div>
                   <div class="child">
                       <p class="title">Waka Yoshihira</p>
-                      <p class="">誕誕生日:2020.04.02<br>
+                      <p class="">誕生日:2020.04.02<br>
                       性格:優しくて、気遣いができる甘えん坊な長女<br>
                       好きな食べ物:<br>
                       好きな色:</p>
