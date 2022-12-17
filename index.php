@@ -212,7 +212,6 @@
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3579.2632315548803!2d127.70852131495509!3d26.22063518343057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34e5120d2c15b4e9%3A0x7520a7093819c81a!2sDoubleTree%20by%20Hilton%20Hotel%20Naha%20Shuri%20Castle!5e0!3m2!1sja!2sjp!4v1671259872398!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
 
-
               </div>
               </div>
           </section>
